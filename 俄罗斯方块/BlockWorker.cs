@@ -42,7 +42,7 @@ namespace 俄罗斯方块
             direction = random.Next(0, 4);
             initBlock = blocks[direction];
             this.map = map;
-
+            
            
 
 

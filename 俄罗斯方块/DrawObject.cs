@@ -52,6 +52,7 @@ namespace 俄罗斯方块
         Font,
         Buffer
 
+
     }
     internal class DrawObject : IDraw,IClear
     {

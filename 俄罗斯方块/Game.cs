@@ -33,7 +33,7 @@ namespace 俄罗斯方块
 
         static Game()
         {
-            ChangeScene(E_SceneType.Game);
+            ChangeScene(E_SceneType.Begin);
             Console.CursorVisible = false;
             Console.SetWindowSize(width,height);
             Console.SetBufferSize(width,height);    
